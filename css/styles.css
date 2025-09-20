@@ -425,7 +425,7 @@ td {
 th {
     text-align: center;
     font-size: large;
-    background: linear-gradient(135deg, #3498db 60%, #764ba2 100%);
+    background: linear-gradient(135deg, red 60%, blue 100%);
     color: white;
     font-weight: 700;
     letter-spacing: 0.05em;
@@ -436,9 +436,10 @@ tr:last-child td {
 }
 
 tr:hover {
-    background-color: #ff2e00;
+    background-color: #9d8fff;
     transition: background 0.2s;
 }
+
 
 caption {
     caption-side: top;
