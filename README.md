@@ -1,4 +1,4 @@
-Personal Webpage Project
+**Personal Webpage Project**
 
 This project is a modern, responsive personal webpage built with semantic HTML and custom CSS.
 
